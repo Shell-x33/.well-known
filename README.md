@@ -1,1 +1,1 @@
-https://squishy6094.github.io/
+https://squishy6094.github.io/shell
